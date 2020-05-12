@@ -25,6 +25,4 @@ Pre-configuration:
       - Verify setup with results from this test: https://coral.ai/docs/accelerator/get-started/#3-run-a-model-using-the-tensorflow-lite-api
   - Clone Pose Net GIT: https://github.com/google-coral/project-posenet
      - Run project-posenet example for Raspberry Pi Camera
-       - <code>python3 pose_camera.py --mirror<\code>
-   
-
+       - <code>python3 pose_camera.py --mirror</code>

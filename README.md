@@ -23,5 +23,7 @@ Pre-configuration:
   - Follow getting started guide: https://coral.ai/docs/accelerator/get-started/
     - Linux steps on the Raspberry Pi
       - Verify setup with results from this test: https://coral.ai/docs/accelerator/get-started/#3-run-a-model-using-the-tensorflow-lite-api
+  - Clone Pose Net GIT: https://github.com/google-coral/project-posenet
+     - Run project-posenet example for Raspberry Pi Camera
    
 
